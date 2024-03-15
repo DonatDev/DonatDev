@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DonatDev
-- 👀 I’m interested in Experimental Analysis of Behavior
+- 👀 I’m interested in Experimental Analysis of Behavior and Quantitative Analysis
 - 🌱 I’m currently learning to create codes in R for data analysis
 
 <!---
